@@ -1,0 +1,57 @@
+.navbar{
+    background-color: #323232;
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    padding-top: 10px;
+    position: sticky;
+}
+#central{
+    width: 1100px;
+    height: 500px;
+    margin-left: 250px;
+    padding-right: 80px;
+}
+.header{
+    text-align: center;
+}
+.travel_maindiv{
+    border: 2px solid lightgray;
+}
+.travel_maindiv img{
+    width: 100%;
+}
+.travel_maindiv h5, .travel_maindiv p{
+    margin: 20px;
+}
+.movie-head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie-head i{
+    float: right;
+}
+.achievement_text span{
+    color: orange;
+}
+li, a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: antiquewhite;
+    margin: 3px;
+    cursor: pointer;
+    list-style-type: none;
+}
+ul{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header_navbar{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+}
